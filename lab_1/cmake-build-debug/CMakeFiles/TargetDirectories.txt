@@ -1,0 +1,3 @@
+/Users/ddanielchik/Desktop/os/lab_1/cmake-build-debug/CMakeFiles/opi.dir
+/Users/ddanielchik/Desktop/os/lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ddanielchik/Desktop/os/lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
